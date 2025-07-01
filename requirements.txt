@@ -1,3 +1,4 @@
 yfinance
-NOTION_TOKEN
+pandas
+ta
 requests
